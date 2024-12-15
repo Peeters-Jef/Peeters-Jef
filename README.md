@@ -1,6 +1,6 @@
 # Jef Peeters
 
-** I mess around with code **
+**I mess around with code**
 
 ## Languages and Tools
 
